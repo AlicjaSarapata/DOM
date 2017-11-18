@@ -5,5 +5,12 @@
 	padding: 10px 20px;
 	text-align: center;
 	border: 1px solid green;
+	box-sizing: border-box;
+	width: 10%;
+	transition: all .4s;
+	
+}
+
+.btn:hover {
 	
 }
